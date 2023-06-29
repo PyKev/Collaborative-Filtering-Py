@@ -10,7 +10,7 @@ Para utilizar este proyecto, simplemente clone el repositorio y ejecute el archi
 ## Requisitos del sistema
 Antes de ejecutar este código Python, asegúrate de que tu sistema cumpla con los siguientes requisitos:
 
-- Python: Asegúrate de tener instalado Python en tu sistema. Este código ha sido probado con Python 3.7 y versiones superiores.
+- Python 3.x
 
 - Librerías requeridas: Este código utiliza las siguientes librerías de Python:
 
